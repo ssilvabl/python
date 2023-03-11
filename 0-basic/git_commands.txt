@@ -29,7 +29,7 @@ Para todos los archivos
 > git remote add origin https://github.com/ssilvabl/python.git
 
 5. Enviar cambios al repositorio remoto
-> git push -u origin master
+> git push -u origin main
 
 6. Renombrar la rama actual
 git branch -M main
