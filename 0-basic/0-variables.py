@@ -1,9 +1,12 @@
 # VARIABLES 
 
+
+# Los comentarios se pueden establecer con # para una línea o con """ cuando sean multilinea """
+
 # Tipos de variables
 
 # int - enteros
-num = 12
+num1 = 12
 
 # float - flotantes
 num2 = 2.3
